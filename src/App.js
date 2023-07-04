@@ -26,12 +26,3 @@ function App() {
 }
 
 export default App;
-
-
-/*
-
-1- Fetch and display project data from a JSON file .
-2- Implement routing using React Router to navigate between different sections.
-3- Deploy your portfolio website using platforms like Netlify or Vercel. 
-
-*/
